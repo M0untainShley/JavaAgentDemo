@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AgentMainSoutHello:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AgentMainSoutHello_jar</output-path>
+    <root id="archive" name="AgentMainSoutHello.jar">
+      <element id="module-output" name="AgentMainSoutHello" />
+      <element id="extracted-dir" path="D:/env/maven-repo/javassist/javassist/3.12.1.GA/javassist-3.12.1.GA.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

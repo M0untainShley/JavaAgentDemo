@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Attacher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Attacher_jar</output-path>
+    <root id="archive" name="Attacher.jar">
+      <element id="module-output" name="Attacher" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Attacher/src/main/lib/tools.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

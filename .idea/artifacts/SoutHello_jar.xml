@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SoutHello:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SoutHello_jar</output-path>
+    <root id="archive" name="SoutHello.jar">
+      <element id="module-output" name="SoutHello" />
+    </root>
+  </artifact>
+</component>
