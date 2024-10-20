@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="PreMain:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/PreMain_jar</output-path>
-    <root id="archive" name="PreMain.jar">
-      <element id="module-output" name="PreMain" />
-    </root>
-  </artifact>
-</component>
