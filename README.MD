@@ -14,7 +14,7 @@ jdk 8u151
 3. InstrumentationDemo1：getAllLoadedClasses 和 isModifiableClasses 方法，遍历某个 jvm 中加载的所有 class
 4. SoutHello&AgentMain：addTransformer 和 retransformClasses 方法，修改字节码 demo
 5. AgentFilterMemshell：tomcat filter 内存马注入
-6. 
+6. AgentFilterMemshellDel：tomcat filter 内存马清除
 
 
 ### 参考
