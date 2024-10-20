@@ -17,6 +17,8 @@
         <module>SoutHello</module>
         <module>AgentMainSoutHello</module>
         <module>AgentFilterMemshellDel</module>
+        <module>AgentFilterMemshell</module>
+        <module>ChangeShiroKey</module>
     </modules>
 
     <properties>

@@ -15,6 +15,7 @@ jdk 8u151
 4. SoutHello&AgentMain：addTransformer 和 retransformClasses 方法，修改字节码 demo
 5. AgentFilterMemshell：tomcat filter 内存马注入
 6. AgentFilterMemshellDel：tomcat filter 内存马清除
+7. ChangeShirokey：通过 java agent 替换 shiro key
 
 
 ### 参考
